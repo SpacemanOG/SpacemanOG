@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SpacemanOG
 - 👀 I’m interested in Space, A.I., Robotics, UX/UI
-- 🌱 I’m currently learning Front-end web development (Hoping to become full-stack)
+- 🌱 I’m currently learning Front-end web development
 - 💞️ I’m looking to collaborate on just about anything I can help with!
 - 📫 You can reach me via Twitter @tweetsaad ❤️
 
